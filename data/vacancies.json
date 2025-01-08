@@ -1,0 +1,582 @@
+[
+    {
+        "employer": {
+            "name": "Премьер",
+            "employer_url": "https://api.hh.ru/employers/5735829"
+        },
+        "vacancies": [
+            {
+                "title": "Кладовщик-сборщик на склад Яндекс.Лавка",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/114683760?host=hh.ru"
+            },
+            {
+                "title": "Кладовщик на склад Яндекс.Лавка",
+                "salary": 89000,
+                "url": "https://api.hh.ru/vacancies/114962732?host=hh.ru"
+            },
+            {
+                "title": "Курьер Яндекс.Еда/Лавка",
+                "salary": 89000,
+                "url": "https://api.hh.ru/vacancies/114675448?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112666087?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112665934?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112665997?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112666157?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112665985?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112666070?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112666027?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112666128?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112666168?host=hh.ru"
+            },
+            {
+                "title": "Водитель категории B по перевозке документов и посылок",
+                "salary": 81000,
+                "url": "https://api.hh.ru/vacancies/114950195?host=hh.ru"
+            },
+            {
+                "title": "Водитель категории B по перевозке документов и посылок",
+                "salary": 81000,
+                "url": "https://api.hh.ru/vacancies/114950197?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112666015?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112666104?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112665952?host=hh.ru"
+            },
+            {
+                "title": "Начинающий повар-заготовщик",
+                "salary": 120000,
+                "url": "https://api.hh.ru/vacancies/113702454?host=hh.ru"
+            },
+            {
+                "title": "Начинающий специалист в Маркет.Деливери",
+                "salary": 2410,
+                "url": "https://api.hh.ru/vacancies/114571668?host=hh.ru"
+            },
+            {
+                "title": "Водитель категории B по перевозке документов и посылок",
+                "salary": 81000,
+                "url": "https://api.hh.ru/vacancies/114950190?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112665915?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112666143?host=hh.ru"
+            },
+            {
+                "title": "Водитель категории B по перевозке документов и посылок",
+                "salary": 81000,
+                "url": "https://api.hh.ru/vacancies/114950193?host=hh.ru"
+            },
+            {
+                "title": "Начинающий сотрудник в Яндекс",
+                "salary": 75000,
+                "url": "https://api.hh.ru/vacancies/112666039?host=hh.ru"
+            },
+            {
+                "title": "Водитель категории B по перевозке документов и посылок",
+                "salary": 81000,
+                "url": "https://api.hh.ru/vacancies/114950187?host=hh.ru"
+            }
+        ]
+    },
+    {
+        "employer": {
+            "name": "Спортмастер",
+            "employer_url": "https://api.hh.ru/employers/2343"
+        },
+        "vacancies": [
+            {
+                "title": "Оператор (информационная безопасность, удаленно)",
+                "salary": 65000,
+                "url": "https://api.hh.ru/vacancies/114727626?host=hh.ru"
+            },
+            {
+                "title": "Менеджер по персоналу",
+                "salary": 90000,
+                "url": "https://api.hh.ru/vacancies/113875565?host=hh.ru"
+            },
+            {
+                "title": "Продавец в магазин Demix (ТЦ \"Лапландия\")",
+                "salary": 46200,
+                "url": "https://api.hh.ru/vacancies/115084064?host=hh.ru"
+            }
+        ]
+    },
+    {
+        "employer": {
+            "name": "Перекрёсток",
+            "employer_url": "https://api.hh.ru/employers/1942336"
+        },
+        "vacancies": [
+            {
+                "title": "Продавец (Сочи, Учительская, 6)",
+                "salary": 400000,
+                "url": "https://api.hh.ru/vacancies/114946371?host=hh.ru"
+            }
+        ]
+    },
+    {
+        "employer": {
+            "name": "Альфа-Банк",
+            "employer_url": "https://api.hh.ru/employers/80"
+        },
+        "vacancies": [
+            {
+                "title": "Начинающий специалист Альфа Банка",
+                "salary": 100000,
+                "url": "https://api.hh.ru/vacancies/110809503?host=hh.ru"
+            },
+            {
+                "title": "Стажёр - финансовый аналитик",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/114690167?host=hh.ru"
+            },
+            {
+                "title": "Специалист дистанционного контакт-центра",
+                "salary": 25000,
+                "url": "https://api.hh.ru/vacancies/114972517?host=hh.ru"
+            },
+            {
+                "title": "Специалист дистанционного контакт-центра (вечернее время)",
+                "salary": 25000,
+                "url": "https://api.hh.ru/vacancies/114972618?host=hh.ru"
+            },
+            {
+                "title": "Специалист по поддержке клиентов (ЧАТ)",
+                "salary": 60000,
+                "url": "https://api.hh.ru/vacancies/114828120?host=hh.ru"
+            },
+            {
+                "title": "Специалист дистанционной поддержки клиентов",
+                "salary": 52500,
+                "url": "https://api.hh.ru/vacancies/114037548?host=hh.ru"
+            },
+            {
+                "title": "Специалист дистанционной поддержки клиентов",
+                "salary": 52500,
+                "url": "https://api.hh.ru/vacancies/111226029?host=hh.ru"
+            },
+            {
+                "title": "Специалист дистанционного контакт-центра",
+                "salary": 25000,
+                "url": "https://api.hh.ru/vacancies/114972564?host=hh.ru"
+            },
+            {
+                "title": "Специалист дистанционной поддержки клиентов",
+                "salary": 52500,
+                "url": "https://api.hh.ru/vacancies/114037423?host=hh.ru"
+            },
+            {
+                "title": "Специалист дистанционной поддержки клиентов",
+                "salary": 52500,
+                "url": "https://api.hh.ru/vacancies/111226190?host=hh.ru"
+            },
+            {
+                "title": "Специалист дистанционной поддержки клиентов",
+                "salary": 52500,
+                "url": "https://api.hh.ru/vacancies/114037355?host=hh.ru"
+            },
+            {
+                "title": "Специалист дистанционной поддержки клиентов",
+                "salary": 52500,
+                "url": "https://api.hh.ru/vacancies/111225985?host=hh.ru"
+            },
+            {
+                "title": "Специалист по поддержке клиентов (ЧАТ)",
+                "salary": 59100,
+                "url": "https://api.hh.ru/vacancies/114824798?host=hh.ru"
+            },
+            {
+                "title": "Главный премиум-менеджер",
+                "salary": 500000,
+                "url": "https://api.hh.ru/vacancies/112133163?host=hh.ru"
+            },
+            {
+                "title": "Эксперт по обработке голосовых обращений",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/114047339?host=hh.ru"
+            },
+            {
+                "title": "Руководитель проектов (Альфа-Академия)",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/114623659?host=hh.ru"
+            },
+            {
+                "title": "Стажёр менеджер проектов",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/112867974?host=hh.ru"
+            },
+            {
+                "title": "Data аналитик",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/114692453?host=hh.ru"
+            },
+            {
+                "title": "Ведущий эксперт по подбору персонала",
+                "salary": 80000,
+                "url": "https://api.hh.ru/vacancies/112467387?host=hh.ru"
+            },
+            {
+                "title": "Вице-президент",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/113738569?host=hh.ru"
+            }
+        ]
+    },
+    {
+        "employer": {
+            "name": "Сбер Бизнес Софт",
+            "employer_url": "https://api.hh.ru/employers/9301808"
+        },
+        "vacancies": [
+            {
+                "title": "Аккаунт-менеджер",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/112182619?host=hh.ru"
+            },
+            {
+                "title": "Event-маркетолог",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/114960125?host=hh.ru"
+            },
+            {
+                "title": "Специалист по контролю защищенности",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/114201975?host=hh.ru"
+            }
+        ]
+    },
+    {
+        "employer": {
+            "name": "Т-Банк",
+            "employer_url": "https://api.hh.ru/employers/78638"
+        },
+        "vacancies": [
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/109129328?host=hh.ru"
+            },
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/109129336?host=hh.ru"
+            },
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/109129325?host=hh.ru"
+            },
+            {
+                "title": "Менеджер по лизингу и развитию партнерских отношений с автосалонами",
+                "salary": 400000,
+                "url": "https://api.hh.ru/vacancies/114992100?host=hh.ru"
+            },
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/109129345?host=hh.ru"
+            },
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/109129343?host=hh.ru"
+            },
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/109129347?host=hh.ru"
+            },
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/109644247?host=hh.ru"
+            },
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/110406289?host=hh.ru"
+            },
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/109129344?host=hh.ru"
+            },
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/109129348?host=hh.ru"
+            },
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/112585528?host=hh.ru"
+            },
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/109129330?host=hh.ru"
+            },
+            {
+                "title": "Оператор по обработке деталей",
+                "salary": 70000,
+                "url": "https://api.hh.ru/vacancies/106021539?host=hh.ru"
+            },
+            {
+                "title": "Заместитель руководителя департамента",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/108034881?host=hh.ru"
+            },
+            {
+                "title": "Кофе-леди/кофе-мен в офисе",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/112872336?host=hh.ru"
+            },
+            {
+                "title": "Финансовый менеджер",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/110412907?host=hh.ru"
+            },
+            {
+                "title": "Руководитель направления развития качества",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/112346185?host=hh.ru"
+            },
+            {
+                "title": "Дизайнер одежды в T‑Shop",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/112532595?host=hh.ru"
+            },
+            {
+                "title": "Офис-менеджер",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/114692165?host=hh.ru"
+            },
+            {
+                "title": "Ведущий/Главный специалист бэк офиса",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/107795257?host=hh.ru"
+            },
+            {
+                "title": "Руководитель группы офисных объектов",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/110671304?host=hh.ru"
+            },
+            {
+                "title": "Ассистент по документообороту",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/114811907?host=hh.ru"
+            },
+            {
+                "title": "Младший юрист (M&A, Корпоративное право)",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/106611674?host=hh.ru"
+            },
+            {
+                "title": "Менеджер внутренних коммуникаций",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/112712481?host=hh.ru"
+            },
+            {
+                "title": "Ассистент по документообороту",
+                "salary": 30000,
+                "url": "https://api.hh.ru/vacancies/113718786?host=hh.ru"
+            },
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/109129331?host=hh.ru"
+            },
+            {
+                "title": "Менеджер по работе с абитуриентами",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/109962503?host=hh.ru"
+            },
+            {
+                "title": "Старший бренд-менеджер",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/111870528?host=hh.ru"
+            },
+            {
+                "title": "Руководитель проектов",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/112707818?host=hh.ru"
+            },
+            {
+                "title": "Оператор разметки данных",
+                "salary": 10000,
+                "url": "https://api.hh.ru/vacancies/109129333?host=hh.ru"
+            }
+        ]
+    },
+    {
+        "employer": {
+            "name": "ЭЛЬГЕРА",
+            "employer_url": "https://api.hh.ru/employers/10545773"
+        },
+        "vacancies": [
+            {
+                "title": "Подработка/Выкладка (Наб.Челны)",
+                "salary": 1950,
+                "url": "https://api.hh.ru/vacancies/106993804?host=hh.ru"
+            },
+            {
+                "title": "Стикеровщик на производство (м.Московская)",
+                "salary": null,
+                "url": "https://api.hh.ru/vacancies/115034700?host=hh.ru"
+            },
+            {
+                "title": "Уборщица/уборщик",
+                "salary": 15000,
+                "url": "https://api.hh.ru/vacancies/114673034?host=hh.ru"
+            },
+            {
+                "title": "Уборщица/уборщик",
+                "salary": 15000,
+                "url": "https://api.hh.ru/vacancies/114814031?host=hh.ru"
+            },
+            {
+                "title": "Комплектовщик на склад",
+                "salary": 100000,
+                "url": "https://api.hh.ru/vacancies/114013479?host=hh.ru"
+            },
+            {
+                "title": "Менеджер по подбору",
+                "salary": 80000,
+                "url": "https://api.hh.ru/vacancies/109536476?host=hh.ru"
+            },
+            {
+                "title": "HR менеджер",
+                "salary": 60000,
+                "url": "https://api.hh.ru/vacancies/112876267?host=hh.ru"
+            },
+            {
+                "title": "Администратор",
+                "salary": 40000,
+                "url": "https://api.hh.ru/vacancies/114813875?host=hh.ru"
+            },
+            {
+                "title": "Ночной комплектовщик в гипермаркет",
+                "salary": 3300,
+                "url": "https://api.hh.ru/vacancies/110414231?host=hh.ru"
+            },
+            {
+                "title": "Комплектовщик в логистический парк",
+                "salary": 70000,
+                "url": "https://api.hh.ru/vacancies/111488539?host=hh.ru"
+            }
+        ]
+    },
+    {
+        "employer": {
+            "name": "Пятёрочка",
+            "employer_url": "https://api.hh.ru/employers/1942330"
+        },
+        "vacancies": [
+            {
+                "title": "Кладовщик-комплектовщик",
+                "salary": 90000,
+                "url": "https://api.hh.ru/vacancies/114285500?host=hh.ru"
+            },
+            {
+                "title": "Кладовщик-комплектовщик",
+                "salary": 90000,
+                "url": "https://api.hh.ru/vacancies/114285481?host=hh.ru"
+            },
+            {
+                "title": "Специалист по документообороту",
+                "salary": 65000,
+                "url": "https://api.hh.ru/vacancies/114683309?host=hh.ru"
+            }
+        ]
+    },
+    {
+        "employer": {
+            "name": "Tennisi",
+            "employer_url": "https://api.hh.ru/employers/5919632"
+        },
+        "vacancies": [
+            {
+                "title": "Специалист клиентской поддержки",
+                "salary": 72500,
+                "url": "https://api.hh.ru/vacancies/109441229?host=hh.ru"
+            }
+        ]
+    },
+    {
+        "employer": {
+            "name": "T2",
+            "employer_url": "https://api.hh.ru/employers/4219"
+        },
+        "vacancies": [
+            {
+                "title": "Специалист по обслуживанию заказов интернет-магазина",
+                "salary": 45000,
+                "url": "https://api.hh.ru/vacancies/112722079?host=hh.ru"
+            },
+            {
+                "title": "Специалист по поддержке логистических процессов",
+                "salary": 70000,
+                "url": "https://api.hh.ru/vacancies/112324648?host=hh.ru"
+            },
+            {
+                "title": "Аналитик Excel (стажер)",
+                "salary": 0,
+                "url": "https://api.hh.ru/vacancies/111388602?host=hh.ru"
+            }
+        ]
+    }
+]
