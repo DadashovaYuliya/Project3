@@ -23,7 +23,7 @@ def add_vacancy(file_name: str, vacancies: dict):
         if vacancy.get("salary"):
             valid_salary = vacancy.get("salary").get("from")
         else:
-            valid_salary =0
+            valid_salary = 0
 
         dict_vacancy = {
             "title": vacancy.get("name"),
@@ -33,19 +33,16 @@ def add_vacancy(file_name: str, vacancies: dict):
 
         employer_exists = False
         for i in file_vacancies:
-            if i['employer'] == dict_employer:
+            if i["employer"] == dict_employer:
                 employer_exists = True
                 # Добавляем вакансию к существующему работодателю
 
-                i['vacancies'].append(dict_vacancy)
+                i["vacancies"].append(dict_vacancy)
                 break
 
         # Если работодателя нет, добавляем новый словарь
         if not employer_exists:
-            file_vacancies.append({
-                'employer': dict_employer,
-                'vacancies': [dict_vacancy]
-            })
+            file_vacancies.append({"employer": dict_employer, "vacancies": [dict_vacancy]})
 
     with open(file_name, "w", encoding="utf-8") as f:
         json.dump(file_vacancies, f, ensure_ascii=False, indent=4)
