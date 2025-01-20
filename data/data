@@ -1,0 +1,36 @@
+'id': '1942330', 'name': 'Пятёрочка'
+- 'id': '3036416', 'name': 'Департамент Ф53'
+'id': '78638', 'name': 'Т-Банк'
+- 'id': '2180', 'name': 'Ozon'
+'id': '1942336', 'name': 'Перекрёсток'
+'id': '10545773', 'name': 'ЭЛЬГЕРА'
+'id': '2343', 'name': 'Спортмастер'
+'id': '80', 'name': 'Альфа-Банк'
+'id': '39305', 'name': 'Газпром нефть'
+'id': '5735829', 'name': 'Премьер'
+
+[9694561, 4219, 5919632, 5667343, 9301808, 774144, 10571093, 198614, 6062708, 78638]
+
+[
+{'id': '114962732', 'premium': False, 'name': 'Кладовщик на склад Яндекс.Лавка', 'department': None, 'has_test': False, 'response_letter_required': False,
+'area': {'id': '1', 'name': 'Москва', 'url': 'https://api.hh.ru/areas/1'},
+'salary': {'from': 89000, 'to': 142000, 'currency': 'RUR', 'gross': False},
+'type': {'id': 'open', 'name': 'Открытая'},
+'address': {'city': 'Москва', 'street': None, 'building': None, 'lat': 55.755864, 'lng': 37.617698, 'description': None, 'raw': 'Москва', 'metro': None, 'metro_stations': [], 'id': '16031060'},
+'response_url': None, 'sort_point_distance': None, 'published_at': '2024-12-27T15:30:50+0300',
+'created_at': '2024-12-27T15:30:50+0300', 'archived': False,
+'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=114962732',
+'show_logo_in_search': None, 'insider_interview': None,
+'url': 'https://api.hh.ru/vacancies/114962732?host=hh.ru',
+'alternate_url': 'https://hh.ru/vacancy/114962732', 'relations': [],
+'employer': {'id': '5735829', 'name': 'Премьер', 'url': 'https://api.hh.ru/employers/5735829', 'alternate_url': 'https://hh.ru/employer/5735829',
+'logo_urls': {'240': 'https://img.hhcdn.ru/employer-logo/7086331.jpeg', '90': 'https://img.hhcdn.ru/employer-logo/7086330.jpeg',
+'original': 'https://img.hhcdn.ru/employer-logo-original/1366607.jpg'},
+'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5735829', 'accredited_it_employer': False, 'trusted': True},
+'snippet': {'requirement': 'ОПЫТ РАБОТЫ НЕ ТРЕБУЕТСЯ, мы всему научим.',
+'responsibility': 'Разгружать товары и размещать их на полках. ⦁ Собирать и упаковывать заказы для клиентов. ⦁ Контролировать наличие товаров на полках.'},
+'contacts': None,
+'schedule': {'id': 'fullDay', 'name': 'Полный день'}, 'working_days': [], 'working_time_intervals': [], 'working_time_modes': [], 'accept_temporary': True, 'fly_in_fly_out_duration': [],
+'work_format': [{'id': 'ON_SITE', 'name': 'На\xa0месте работодателя'}], 'working_hours': [{'id': 'HOURS_7', 'name': '7 часов'}, {'id': 'HOURS_8', 'name': '8\xa0часов'}, {'id': 'HOURS_9', 'name': '9 часов'}, {'id': 'HOURS_10', 'name': '10\xa0часов'}, {'id': 'HOURS_11', 'name': '11 часов'}, {'id': 'HOURS_12', 'name': '12\xa0часов'}, {'id': 'FLEXIBLE', 'name': 'По\xa0договорённости'}, {'id': 'OTHER', 'name': 'Другое'}], 'work_schedule_by_days': [{'id': 'FIVE_ON_TWO_OFF', 'name': '5/2'}, {'id': 'FOUR_ON_THREE_OFF', 'name': '4/3'}, {'id': 'OTHER', 'name': 'Другое'}],
+'night_shifts': False, 'professional_roles': [{'id': '52', 'name': 'Кладовщик'}], 'accept_incomplete_resumes': True,
+'experience': {'id': 'noExperience', 'name': 'Нет опыта'}, 'employment': {'id': 'full', 'name': 'Полная занятость'}, 'employment_form': {'id': 'FULL', 'name': 'Полная'}, 'internship': False, 'adv_response_url': None, 'is_adv_vacancy': False, 'adv_context': None}
